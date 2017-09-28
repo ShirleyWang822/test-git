@@ -1,6 +1,7 @@
-``` java
-public Hello {
-	public void sayHello() {
-		System.out.println('hi git');	
-	}
-}
+# use git
+* git diff
+* git add
+* git commit
+* git commit --amend
+* git pull
+* git push
